@@ -4,11 +4,13 @@
 <!-- [![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25) -->
 
 
-### Hello 👋
+### Hello fellow visitors 👋
 
-I'm Addam Rafacho,
+My name is Addam Rafacho,
 
-I'm currently living in São José dos Campos, Brazil, working as Software Analyst at Sonda IT consultancy for Embraer.
+I'm a Software Developer currently living in São José dos Campos, Brazil. I work at Sonda IT consultancy directly for our customer Embraer.
+
+
 
 <!--
 ## About Me:

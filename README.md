@@ -3,8 +3,15 @@
 [![](https://img.shields.io/badge/Gmail-addamcaue%40gmail.com-red)](mailto:addamcaue@gmail.com)
 <!-- [![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25) -->
 
-
-### Hello fellow visitors 👋
+```Java
+System.println.out("Hello everyone! 👋 ")
+```
+```Javascript
+console.log('Hello everyone! 👋 ')
+```
+```python
+print('Hello everyone! 👋 ')
+```
 
 My name is Addam Rafacho,
 
@@ -12,7 +19,7 @@ I'm a Software Developer currently living in São José dos Campos, Brazil. I wo
 
 <br/>
 
-Most of my projects consists from my Computer Science Bachelor's days, but slowly I plan to work on it.
+Most of my projects are from my Bachelor days in Computer Science Bachelor, but slowly I'm planning to improve it.
 
 My expertise as IT developer is related to working on web development with tools such as Java and Javascript (reactJS, Lightning Web Components), Cloud Platforms (Salesforce), as well as specific cases concerning a variety of other Technologies: Python, VB.Net, Aws, Azure, Heroku, amongst others (so many technologies to follow lately lol)
 

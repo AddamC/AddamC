@@ -8,8 +8,19 @@
 
 My name is Addam Rafacho,
 
-I'm a Software Developer currently living in São José dos Campos, Brazil. I work at Sonda IT consultancy directly for our customer Embraer.
+I'm a Software Developer currently living in São José dos Campos, Brazil. I work at Objective Solutions as full a time Salesforce Developer and Admin.
 
+Most of my projects consists from my Computer Science Bachelor's days, but slowly I plan to work on it.
+
+Currently my expertise is related to working on web development with tools such as Java and Javascript (reactJS, Lightning Web Components), Cloud Platforms (Salesforce), as well as specific cases concerning a variety of other Technologies: Python, VB.Net, Aws, Azure, Heroku, amongst others (so many technologies to follow lately lol)
+
+Some of the type of projects I really like are games and graphics related, although I'm yet to learn more deeply by myself.
+
+<!-- You will see in my list of repos very different types of projects, but some that I liked where the ones with Processing and otber -->
+
+I really like watching videos related to Game Engine/Game development (HandMadeHero, The Cherno), Browser and OS development from Andreas Kling (some really hard and niche stuff to understand lol).
+
+Anyway, feel free to look some of my projects, even though they are a little outdated :)
 
 
 <!--

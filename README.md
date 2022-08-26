@@ -21,17 +21,15 @@ I'm a Software Developer currently living in São José dos Campos, Brazil. I wo
 
 Most of my projects are from my Bachelor days in Computer Science Bachelor, but slowly I'm planning to improve it.
 
-My expertise as IT developer focused on web development in Java and Javascript (reactJS, Lightning Web Components), Cloud Platforms (Salesforce), as well as a variety of other Technologies on a few occasions: Python, VB.Net, Aws, Azure, Heroku, amongst others (so many technologies to follow lately lol)
+My expertise as IT developer in professional field is mostly centered on Java, Javascript, ReactJS and Salesforce, whereas in a few other occasions I experienced other technologies such as Flutter, Python, VB.Net, Aws, Azure, Heroku.
 
 You can check more about my work experience by clicking on my linkedin shortcut on top of this section.
 
-I am into softwares focused on games and graphics outside of my work experience, although I'm yet to learn more deeply by myself.
-
 <!-- You will see in my list of repos very different types of projects, but some that I liked where the ones with Processing and otber -->
 
-I really like watching videos related to Game Engine/Game development (HandMadeHero, The Cherno), Browser and OS development from Andreas Kling (some really hard and niche stuff to understand lol).
+I really enjoy Game Engine/Game development related topics and videos/youtube channels (HandMadeHero, The Cherno), Browser and OS development from Andreas Kling (some really hard and niche stuff to understand lol).
 
-Anyway, feel free to look at some of my projects, even though they are a little outdated :)
+Anyway, feel free to look at some of my projects, even though they are a little outdated.
 
 <!--
 ## About Me:
